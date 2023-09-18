@@ -1,5 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/faskally/faskally.r-universe.dev
 	branch = HEAD
+[submodule "ef"]
+	path = ef
+	url = https://github.com/faskally/ef
+[submodule "gmrf"]
+	path = gmrf
+	url = https://github.com/faskally/gmrf
+[submodule "loggercal"]
+	path = loggercal
+	url = https://github.com/faskally/loggercal
+[submodule "rfutils"]
+	path = rfutils
+	url = https://github.com/faskally/rfultils
+[submodule "rns"]
+	path = rns
+	url = https://github.com/faskally/rns
