@@ -22,7 +22,7 @@
 	url = https://github.com/faskally/rc
 [submodule "rfutils"]
 	path = rfutils
-	url = https://github.com/faskally/rfultils
+	url = https://github.com/faskally/rfutils
 [submodule "rns"]
 	path = rns
 	url = https://github.com/faskally/rns
