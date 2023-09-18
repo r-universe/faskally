@@ -2,15 +2,24 @@
 	path = .registry
 	url = https://github.com/faskally/faskally.r-universe.dev
 	branch = HEAD
+[submodule "CLmodel"]
+	path = CLmodel
+	url = https://github.com/faskally/clmodel
 [submodule "ef"]
 	path = ef
 	url = https://github.com/faskally/ef
+[submodule "fflgis"]
+	path = fflgis
+	url = https://github.com/faskally/fflgis
 [submodule "gmrf"]
 	path = gmrf
 	url = https://github.com/faskally/gmrf
 [submodule "loggercal"]
 	path = loggercal
 	url = https://github.com/faskally/loggercal
+[submodule "rc"]
+	path = rc
+	url = https://github.com/faskally/rc
 [submodule "rfutils"]
 	path = rfutils
 	url = https://github.com/faskally/rfultils
