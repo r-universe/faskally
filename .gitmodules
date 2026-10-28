@@ -8,6 +8,9 @@
 [submodule "ef"]
 	path = ef
 	url = https://github.com/faskally/ef
+[submodule "ef2"]
+	path = ef2
+	url = https://github.com/faskally/ef2
 [submodule "fflgis"]
 	path = fflgis
 	url = https://github.com/faskally/fflgis
